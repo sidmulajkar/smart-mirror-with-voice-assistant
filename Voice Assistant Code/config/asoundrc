@@ -1,0 +1,2 @@
+# Installed from l3-37-alexa_patchbots
+pcm.!default { type asym playback.pcm { type plug slave.pcm "hw:0,0" } capture.pcm { type plug slave.pcm "hw:1,0" } }

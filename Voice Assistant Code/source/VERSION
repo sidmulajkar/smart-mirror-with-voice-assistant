@@ -1,0 +1,11 @@
+Forked project versions
+---
+
+avs-alexa-sdk: Version 1.7.1, commit 32f85e26
+https://github.com/alexa/avs-device-sdk
+
+snowboy: Version: 1.3.0, commit d51c2e25
+http://github.com/kitt-ai/snowboy
+
+portaudio: v190600_20161030
+http://www.portaudio.com/archives/pa_stable_v190600_20161030.tgz

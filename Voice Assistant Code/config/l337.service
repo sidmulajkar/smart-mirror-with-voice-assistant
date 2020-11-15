@@ -1,0 +1,11 @@
+ [Unit]
+ Description=L3-37 Alexa
+ After=multi-user.target default.target
+
+ [Service]
+ Type=simple
+ StandardInput=tty-force
+ ExecStart=/home/pi/l3-37-alexa_patchbots/l337.sh run
+
+ [Install]
+ WantedBy=multi-user.target default.target
